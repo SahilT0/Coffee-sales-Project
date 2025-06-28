@@ -84,4 +84,73 @@ cleaned_data = cleaned_data[cleaned_data['money'] != 18.12]
 print(cleaned_data.shape)
 
 
+# Visualization part
+
+# 1. Sales by Coffee Type
+sns.boxplot(x='coffee_name', y='money', data=cleaned_data)
+plt.title('Price Distribution per Coffee Type')
+plt.show()
+
+# 2. Sales by Hour
+cleaned_data.groupby('hours')['money'].sum().plot(kind='line', marker='o', title='Sales Trend by Hour of Day')
+plt.xlabel('Hour')
+plt.ylabel('Total Sales')
+plt.grid()
+plt.show()
+
+# 3. Payment Mode
+plt.pie(cleaned_data['cash_type'].value_counts(), colors=sns.color_palette('pastel'), autopct="%1.1f%%", labels=['Card', 'Cash'])
+plt.title("Payment type distribution")
+plt.show()
+
+# 4. Sales by Day of the Week
+sns.barplot(x='day', y='money', data=cleaned_data, palette='viridis')
+plt.title("Total Sales by Day of the Week")
+plt.ylabel("Sales")
+plt.show()
+
+# 5.Customer Frequency
+sns.scatterplot(x='customer_frequency', y='money', data=cleaned_data)
+plt.title('Customer Frequency vs Sales Amount')
+plt.xlabel('Customer Frequency')
+plt.ylabel('Sales')
+plt.show()
+
+# 6. Monthly Sales Trend
+cleaned_data.groupby('month')['money'].sum().plot(kind='line', marker='+', title='Monthly Sales Trend')
+plt.xlabel('Month')
+plt.ylabel('Total Sales')
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
