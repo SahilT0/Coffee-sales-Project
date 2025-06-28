@@ -73,3 +73,15 @@ cleaned_data.to_csv('C:/Users/SAHIL/Unified Mentor/Project (Data Analyst)/Coffee
 # Data Cleaning Done
 
 
+# Checking for outliers
+print(cleaned_data['money'].value_counts().sort_index())
+print(cleaned_data['money'].describe())
+# Money value 18.12 has 10 counts
+print(cleaned_data[cleaned_data['money'] == 18.12])
+
+# removing these 10 rows
+cleaned_data = cleaned_data[cleaned_data['money'] != 18.12]
+print(cleaned_data.shape)
+
+
+
