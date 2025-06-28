@@ -18,3 +18,16 @@ coffee_sales = pd.read_csv("C:/Users/SAHIL/Unified Mentor/Project (Data Analyst)
 # pd.set_option("display.max_columns",None)
 # pd.set_option("display.max_rows",None)
 print(coffee_sales)
+
+# Creating a copy of original Data
+sales = coffee_sales.copy()
+
+# Data Structure
+print(sales.info())
+
+# Summarizing Data
+print(sales.describe())
+
+# Converting Datatype
+sales['date'] = pd.to_datetime(sales['date'])
+sales['datetime'] = pd.to_datetime(sales['datetime'])
