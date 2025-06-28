@@ -1,0 +1,1134 @@
+cash_type,money,coffee_name,month,day,hours,customer_frequency
+card,38.7,Latte,2024-03,Friday,10,17
+card,38.7,Hot Chocolate,2024-03,Friday,12,2
+card,38.7,Hot Chocolate,2024-03,Friday,12,2
+card,28.9,Americano,2024-03,Friday,13,23
+card,38.7,Latte,2024-03,Friday,13,9
+card,33.8,Americano with Milk,2024-03,Friday,15,1
+card,38.7,Hot Chocolate,2024-03,Friday,16,1
+card,33.8,Americano with Milk,2024-03,Friday,18,1
+card,38.7,Cocoa,2024-03,Friday,19,2
+card,33.8,Americano with Milk,2024-03,Friday,19,2
+card,33.8,Americano with Milk,2024-03,Friday,19,63
+card,28.9,Americano,2024-03,Saturday,10,1
+cash,40.0,Latte,2024-03,Saturday,10,0
+card,33.8,Americano with Milk,2024-03,Saturday,10,1
+card,33.8,Americano with Milk,2024-03,Saturday,11,88
+card,28.9,Americano,2024-03,Saturday,14,1
+card,33.8,Americano with Milk,2024-03,Saturday,16,1
+card,28.9,Americano,2024-03,Saturday,17,9
+cash,40.0,Latte,2024-03,Sunday,10,0
+card,38.7,Latte,2024-03,Sunday,10,1
+card,28.9,Cortado,2024-03,Sunday,11,1
+card,28.9,Americano,2024-03,Sunday,12,88
+card,38.7,Hot Chocolate,2024-03,Sunday,13,6
+card,38.7,Cocoa,2024-03,Sunday,17,1
+card,28.9,Cortado,2024-03,Sunday,17,7
+card,33.8,Americano with Milk,2024-03,Sunday,18,3
+card,33.8,Americano with Milk,2024-03,Sunday,18,3
+card,38.7,Hot Chocolate,2024-03,Sunday,18,3
+card,38.7,Latte,2024-03,Monday,10,17
+card,38.7,Latte,2024-03,Monday,10,1
+card,33.8,Americano with Milk,2024-03,Monday,11,88
+card,24.0,Espresso,2024-03,Monday,14,1
+card,38.7,Latte,2024-03,Tuesday,9,17
+card,38.7,Latte,2024-03,Tuesday,14,1
+card,38.7,Latte,2024-03,Tuesday,17,12
+card,38.7,Hot Chocolate,2024-03,Tuesday,17,4
+card,38.7,Cocoa,2024-03,Tuesday,17,2
+card,38.7,Hot Chocolate,2024-03,Tuesday,17,1
+card,38.7,Hot Chocolate,2024-03,Tuesday,17,63
+card,28.9,Cortado,2024-03,Tuesday,17,2
+card,38.7,Hot Chocolate,2024-03,Tuesday,18,2
+cash,35.0,Americano with Milk,2024-03,Wednesday,12,0
+card,28.9,Americano,2024-03,Wednesday,13,88
+card,28.9,Cortado,2024-03,Wednesday,13,88
+card,38.7,Cappuccino,2024-03,Wednesday,14,2
+card,38.7,Cappuccino,2024-03,Wednesday,14,2
+cash,40.0,Latte,2024-03,Thursday,10,0
+card,38.7,Hot Chocolate,2024-03,Thursday,10,1
+card,38.7,Latte,2024-03,Thursday,11,1
+cash,40.0,Latte,2024-03,Thursday,11,0
+card,28.9,Americano,2024-03,Thursday,15,2
+card,33.8,Americano with Milk,2024-03,Thursday,15,5
+card,28.9,Cortado,2024-03,Friday,10,88
+card,38.7,Cappuccino,2024-03,Friday,12,1
+card,28.9,Americano,2024-03,Friday,13,2
+card,28.9,Americano,2024-03,Friday,14,88
+card,28.9,Americano,2024-03,Friday,14,5
+card,33.8,Americano with Milk,2024-03,Friday,14,88
+card,38.7,Latte,2024-03,Friday,18,1
+card,38.7,Latte,2024-03,Friday,18,1
+cash,40.0,Hot Chocolate,2024-03,Saturday,11,0
+card,24.0,Espresso,2024-03,Saturday,12,1
+card,28.9,Americano,2024-03,Saturday,12,1
+card,38.7,Cappuccino,2024-03,Saturday,12,88
+card,28.9,Americano,2024-03,Saturday,12,22
+card,28.9,Americano,2024-03,Saturday,12,22
+card,38.7,Latte,2024-03,Saturday,13,1
+card,33.8,Americano with Milk,2024-03,Saturday,13,2
+card,28.9,Cortado,2024-03,Saturday,13,2
+card,38.7,Cappuccino,2024-03,Saturday,13,2
+card,33.8,Americano with Milk,2024-03,Saturday,14,63
+card,38.7,Hot Chocolate,2024-03,Saturday,14,1
+card,38.7,Cappuccino,2024-03,Saturday,19,63
+card,38.7,Hot Chocolate,2024-03,Saturday,19,63
+cash,30.0,Americano,2024-03,Sunday,7,0
+cash,35.0,Americano with Milk,2024-03,Sunday,7,0
+cash,40.0,Latte,2024-03,Sunday,10,0
+card,24.0,Espresso,2024-03,Sunday,11,1
+cash,35.0,Americano with Milk,2024-03,Sunday,17,0
+card,38.7,Latte,2024-03,Sunday,19,2
+card,28.9,Cortado,2024-03,Sunday,19,2
+cash,40.0,Latte,2024-03,Monday,10,0
+cash,40.0,Cappuccino,2024-03,Monday,11,0
+cash,30.0,Cortado,2024-03,Monday,11,0
+cash,30.0,Americano,2024-03,Monday,11,0
+card,38.7,Cappuccino,2024-03,Monday,11,2
+card,28.9,Americano,2024-03,Monday,16,2
+card,38.7,Latte,2024-03,Monday,16,2
+card,28.9,Cortado,2024-03,Monday,16,2
+cash,40.0,Latte,2024-03,Tuesday,10,0
+card,28.9,Americano,2024-03,Tuesday,10,5
+card,28.9,Cortado,2024-03,Tuesday,10,5
+card,38.7,Hot Chocolate,2024-03,Tuesday,11,4
+card,33.8,Americano with Milk,2024-03,Tuesday,12,9
+card,28.9,Americano,2024-03,Tuesday,12,9
+card,28.9,Americano,2024-03,Tuesday,16,6
+card,38.7,Hot Chocolate,2024-03,Wednesday,11,2
+card,28.9,Americano,2024-03,Wednesday,11,9
+card,28.9,Americano,2024-03,Wednesday,12,2
+card,28.9,Americano,2024-03,Wednesday,12,2
+cash,25.0,Espresso,2024-03,Wednesday,12,0
+card,33.8,Americano with Milk,2024-03,Wednesday,14,1
+card,24.0,Espresso,2024-03,Wednesday,15,2
+card,24.0,Espresso,2024-03,Wednesday,15,2
+card,24.0,Espresso,2024-03,Wednesday,16,1
+cash,40.0,Latte,2024-03,Thursday,10,0
+card,38.7,Latte,2024-03,Thursday,10,4
+card,38.7,Hot Chocolate,2024-03,Thursday,10,4
+card,28.9,Cortado,2024-03,Thursday,13,88
+card,28.9,Americano,2024-03,Thursday,13,88
+card,33.8,Americano with Milk,2024-03,Thursday,13,1
+card,24.0,Espresso,2024-03,Thursday,13,1
+card,38.7,Latte,2024-03,Thursday,15,2
+card,33.8,Americano with Milk,2024-03,Thursday,16,12
+card,24.0,Espresso,2024-03,Thursday,16,6
+card,38.7,Hot Chocolate,2024-03,Thursday,18,7
+card,28.9,Cortado,2024-03,Thursday,19,88
+cash,40.0,Latte,2024-03,Friday,10,0
+card,38.7,Hot Chocolate,2024-03,Friday,10,1
+card,28.9,Americano,2024-03,Friday,18,88
+card,33.8,Americano with Milk,2024-03,Saturday,12,2
+card,28.9,Americano,2024-03,Saturday,12,2
+card,28.9,Cortado,2024-03,Saturday,15,63
+card,28.9,Cortado,2024-03,Saturday,16,63
+card,28.9,Cortado,2024-03,Saturday,16,88
+card,33.8,Americano with Milk,2024-03,Saturday,17,1
+cash,40.0,Latte,2024-03,Sunday,10,0
+card,28.9,Cortado,2024-03,Sunday,12,1
+card,28.9,Cortado,2024-03,Monday,11,3
+card,28.9,Americano,2024-03,Monday,15,23
+card,28.9,Americano,2024-03,Monday,15,23
+card,28.9,Americano,2024-03,Monday,15,23
+cash,30.0,Cortado,2024-03,Tuesday,10,0
+card,38.7,Latte,2024-03,Tuesday,14,2
+card,38.7,Latte,2024-03,Tuesday,14,2
+card,38.7,Hot Chocolate,2024-03,Tuesday,15,4
+card,33.8,Americano with Milk,2024-03,Tuesday,16,1
+cash,40.0,Hot Chocolate,2024-03,Tuesday,19,0
+card,28.9,Cortado,2024-03,Wednesday,11,88
+cash,40.0,Latte,2024-03,Wednesday,12,0
+card,28.9,Cortado,2024-03,Wednesday,12,4
+card,38.7,Cappuccino,2024-03,Wednesday,13,1
+card,38.7,Cocoa,2024-03,Wednesday,16,6
+card,38.7,Latte,2024-03,Wednesday,17,1
+cash,40.0,Cappuccino,2024-03,Thursday,10,0
+card,28.9,Cortado,2024-03,Thursday,12,88
+card,38.7,Cappuccino,2024-03,Thursday,12,88
+cash,30.0,Americano,2024-03,Thursday,17,0
+card,28.9,Cortado,2024-03,Thursday,17,88
+card,38.7,Latte,2024-03,Thursday,19,5
+card,33.8,Americano with Milk,2024-03,Friday,10,1
+card,33.8,Americano with Milk,2024-03,Friday,13,1
+cash,40.0,Cappuccino,2024-03,Friday,16,0
+card,28.9,Americano,2024-03,Friday,17,88
+card,24.0,Espresso,2024-03,Friday,17,88
+card,28.9,Americano,2024-03,Friday,17,6
+card,38.7,Latte,2024-03,Saturday,10,1
+card,33.8,Americano with Milk,2024-03,Saturday,10,1
+card,38.7,Cappuccino,2024-03,Saturday,13,2
+card,38.7,Cocoa,2024-03,Saturday,13,2
+card,33.8,Americano with Milk,2024-03,Saturday,14,1
+card,38.7,Latte,2024-03,Saturday,15,2
+card,33.8,Americano with Milk,2024-03,Saturday,15,2
+card,28.9,Cortado,2024-03,Saturday,16,63
+cash,40.0,Latte,2024-03,Sunday,10,0
+card,38.7,Latte,2024-03,Sunday,18,5
+card,38.7,Latte,2024-03,Monday,10,63
+cash,35.0,Americano with Milk,2024-03,Monday,11,0
+card,38.7,Latte,2024-03,Monday,14,1
+card,38.7,Latte,2024-03,Monday,14,6
+card,33.8,Americano with Milk,2024-03,Monday,18,12
+card,38.7,Cappuccino,2024-03,Monday,19,1
+card,38.7,Cocoa,2024-03,Tuesday,10,4
+card,38.7,Latte,2024-03,Tuesday,10,4
+card,38.7,Latte,2024-03,Tuesday,10,1
+card,28.9,Cortado,2024-03,Tuesday,11,63
+card,28.9,Americano,2024-03,Tuesday,13,23
+card,28.9,Cortado,2024-03,Tuesday,13,2
+card,28.9,Cortado,2024-03,Tuesday,13,12
+card,28.9,Americano,2024-03,Tuesday,13,6
+card,38.7,Latte,2024-03,Tuesday,15,2
+card,38.7,Latte,2024-03,Tuesday,18,12
+card,38.7,Hot Chocolate,2024-03,Tuesday,18,63
+card,28.9,Cortado,2024-03,Wednesday,11,23
+card,33.8,Americano with Milk,2024-03,Wednesday,11,23
+card,33.8,Americano with Milk,2024-03,Wednesday,12,1
+card,38.7,Hot Chocolate,2024-03,Wednesday,13,1
+card,38.7,Cappuccino,2024-03,Wednesday,14,88
+card,28.9,Americano,2024-03,Wednesday,14,88
+card,28.9,Cortado,2024-03,Wednesday,18,1
+cash,40.0,Latte,2024-03,Wednesday,19,0
+card,28.9,Cortado,2024-03,Thursday,14,2
+card,28.9,Cortado,2024-03,Thursday,17,88
+card,28.9,Americano,2024-03,Thursday,17,88
+card,38.7,Latte,2024-03,Thursday,17,1
+card,38.7,Latte,2024-03,Friday,10,1
+card,38.7,Cappuccino,2024-03,Friday,12,2
+card,38.7,Cappuccino,2024-03,Friday,12,2
+cash,40.0,Cappuccino,2024-03,Friday,13,0
+card,38.7,Latte,2024-03,Saturday,11,5
+cash,40.0,Cappuccino,2024-03,Saturday,13,0
+card,38.7,Latte,2024-03,Saturday,16,6
+card,38.7,Latte,2024-03,Saturday,16,63
+card,33.8,Americano with Milk,2024-03,Saturday,16,63
+card,38.7,Cappuccino,2024-03,Sunday,10,1
+cash,30.0,Americano,2024-03,Sunday,19,0
+card,28.9,Americano,2024-04,Monday,10,9
+card,33.8,Americano with Milk,2024-04,Monday,10,9
+card,33.8,Americano with Milk,2024-04,Monday,10,9
+card,33.8,Americano with Milk,2024-04,Monday,11,63
+cash,40.0,Cappuccino,2024-04,Monday,17,0
+card,33.8,Americano with Milk,2024-04,Monday,18,12
+card,38.7,Hot Chocolate,2024-04,Monday,18,1
+card,38.7,Latte,2024-04,Tuesday,10,17
+card,28.9,Americano,2024-04,Tuesday,16,23
+card,28.9,Cortado,2024-04,Tuesday,16,23
+cash,40.0,Cappuccino,2024-04,Tuesday,19,0
+card,28.9,Cortado,2024-04,Wednesday,10,23
+card,28.9,Americano,2024-04,Wednesday,10,23
+card,38.7,Cappuccino,2024-04,Wednesday,13,88
+cash,30.0,Cortado,2024-04,Wednesday,15,0
+card,38.7,Latte,2024-04,Thursday,10,3
+card,38.7,Latte,2024-04,Thursday,11,1
+card,38.7,Cappuccino,2024-04,Thursday,11,1
+card,28.9,Cortado,2024-04,Thursday,12,1
+cash,40.0,Latte,2024-04,Thursday,19,0
+card,28.9,Americano,2024-04,Friday,10,1
+card,28.9,Americano,2024-04,Friday,10,88
+card,28.9,Cortado,2024-04,Friday,11,1
+card,33.8,Americano with Milk,2024-04,Friday,12,27
+card,38.7,Latte,2024-04,Friday,14,2
+card,28.9,Cortado,2024-04,Friday,14,2
+cash,40.0,Latte,2024-04,Friday,15,0
+cash,40.0,Cappuccino,2024-04,Friday,15,0
+cash,30.0,Americano,2024-04,Friday,15,0
+cash,40.0,Cocoa,2024-04,Friday,16,0
+card,24.0,Espresso,2024-04,Friday,16,23
+card,33.8,Americano with Milk,2024-04,Saturday,12,4
+card,38.7,Cappuccino,2024-04,Saturday,14,22
+card,28.9,Americano,2024-04,Saturday,14,22
+card,38.7,Latte,2024-04,Saturday,14,63
+card,38.7,Latte,2024-04,Sunday,10,3
+card,38.7,Cappuccino,2024-04,Sunday,12,22
+card,38.7,Cappuccino,2024-04,Sunday,12,22
+card,28.9,Cortado,2024-04,Sunday,14,2
+card,24.0,Espresso,2024-04,Sunday,14,2
+card,38.7,Hot Chocolate,2024-04,Sunday,18,2
+card,33.8,Americano with Milk,2024-04,Sunday,18,2
+card,33.8,Americano with Milk,2024-04,Monday,10,1
+card,38.7,Cappuccino,2024-04,Monday,10,1
+card,28.9,Americano,2024-04,Monday,11,88
+card,38.7,Cappuccino,2024-04,Monday,11,1
+cash,25.0,Espresso,2024-04,Monday,12,0
+cash,35.0,Americano with Milk,2024-04,Monday,15,0
+card,38.7,Latte,2024-04,Monday,16,6
+card,28.9,Americano,2024-04,Monday,18,1
+card,33.8,Americano with Milk,2024-04,Monday,19,12
+card,38.7,Cappuccino,2024-04,Monday,19,2
+cash,40.0,Cappuccino,2024-04,Tuesday,10,0
+cash,30.0,Americano,2024-04,Tuesday,10,0
+card,38.7,Latte,2024-04,Tuesday,11,3
+card,38.7,Hot Chocolate,2024-04,Tuesday,15,1
+card,38.7,Hot Chocolate,2024-04,Tuesday,17,4
+cash,25.0,Espresso,2024-04,Wednesday,10,0
+cash,40.0,Hot Chocolate,2024-04,Wednesday,17,0
+card,24.0,Espresso,2024-04,Wednesday,17,1
+card,38.7,Cappuccino,2024-04,Wednesday,18,63
+card,38.7,Latte,2024-04,Wednesday,20,1
+card,28.9,Americano,2024-04,Thursday,10,2
+card,28.9,Americano,2024-04,Thursday,10,2
+card,38.7,Latte,2024-04,Thursday,16,6
+card,38.7,Cappuccino,2024-04,Thursday,19,2
+card,33.8,Americano with Milk,2024-04,Thursday,19,12
+card,38.7,Hot Chocolate,2024-04,Friday,19,7
+card,28.9,Cortado,2024-04,Friday,19,63
+card,38.7,Latte,2024-04,Saturday,12,63
+card,28.9,Americano,2024-04,Saturday,12,88
+cash,40.0,Hot Chocolate,2024-04,Saturday,15,0
+cash,40.0,Hot Chocolate,2024-04,Saturday,15,0
+card,38.7,Cappuccino,2024-04,Saturday,16,2
+card,38.7,Latte,2024-04,Saturday,16,2
+card,38.7,Cappuccino,2024-04,Saturday,17,1
+card,38.7,Cappuccino,2024-04,Saturday,17,88
+cash,40.0,Latte,2024-04,Sunday,10,0
+card,38.7,Cappuccino,2024-04,Sunday,12,1
+cash,30.0,Cortado,2024-04,Sunday,12,0
+cash,30.0,Cortado,2024-04,Sunday,12,0
+cash,35.0,Americano with Milk,2024-04,Sunday,12,0
+card,28.9,Cortado,2024-04,Sunday,13,1
+card,28.9,Americano,2024-04,Sunday,14,88
+card,28.9,Americano,2024-04,Sunday,14,88
+card,28.9,Americano,2024-04,Sunday,14,88
+card,38.7,Cappuccino,2024-04,Sunday,15,6
+card,28.9,Cortado,2024-04,Sunday,16,88
+card,38.7,Latte,2024-04,Sunday,17,7
+card,38.7,Cappuccino,2024-04,Sunday,18,2
+card,28.9,Americano,2024-04,Monday,11,3
+card,28.9,Americano,2024-04,Monday,17,23
+card,33.8,Americano with Milk,2024-04,Monday,17,9
+card,33.8,Americano with Milk,2024-04,Monday,19,63
+cash,25.0,Espresso,2024-04,Monday,19,0
+cash,35.0,Americano with Milk,2024-04,Tuesday,10,0
+card,33.8,Americano with Milk,2024-04,Tuesday,10,1
+card,38.7,Cocoa,2024-04,Tuesday,12,1
+card,28.9,Cortado,2024-04,Tuesday,12,3
+card,28.9,Americano,2024-04,Tuesday,15,6
+card,33.8,Americano with Milk,2024-04,Tuesday,17,12
+card,38.7,Cappuccino,2024-04,Tuesday,17,63
+card,38.7,Cocoa,2024-04,Tuesday,18,6
+card,28.9,Americano,2024-04,Wednesday,13,88
+card,24.0,Espresso,2024-04,Wednesday,13,1
+cash,40.0,Cappuccino,2024-04,Wednesday,16,0
+card,38.7,Cappuccino,2024-04,Wednesday,17,3
+card,38.7,Cappuccino,2024-04,Wednesday,17,3
+card,28.9,Cortado,2024-04,Wednesday,18,1
+card,28.9,Americano,2024-04,Thursday,11,23
+card,28.9,Americano,2024-04,Thursday,11,23
+card,33.8,Americano with Milk,2024-04,Thursday,13,2
+card,28.9,Cortado,2024-04,Thursday,13,2
+card,38.7,Cappuccino,2024-04,Thursday,14,2
+card,38.7,Latte,2024-04,Thursday,14,2
+card,38.7,Latte,2024-04,Thursday,17,5
+card,38.7,Cappuccino,2024-04,Thursday,18,2
+card,38.7,Hot Chocolate,2024-04,Thursday,19,12
+card,38.7,Hot Chocolate,2024-04,Thursday,19,63
+card,38.7,Latte,2024-04,Friday,10,17
+card,33.8,Americano with Milk,2024-04,Friday,13,22
+card,38.7,Cappuccino,2024-04,Friday,13,22
+card,38.7,Hot Chocolate,2024-04,Friday,13,2
+card,38.7,Cappuccino,2024-04,Friday,13,2
+card,38.7,Cocoa,2024-04,Friday,18,12
+card,33.8,Americano with Milk,2024-04,Friday,18,63
+cash,35.0,Americano with Milk,2024-04,Saturday,11,0
+card,33.8,Americano with Milk,2024-04,Saturday,12,2
+card,33.8,Americano with Milk,2024-04,Saturday,12,2
+card,28.9,Americano,2024-04,Saturday,13,6
+card,33.8,Americano with Milk,2024-04,Saturday,13,6
+card,38.7,Hot Chocolate,2024-04,Saturday,13,6
+card,38.7,Cappuccino,2024-04,Saturday,14,22
+card,33.8,Americano with Milk,2024-04,Saturday,15,63
+card,32.82,Americano with Milk,2024-04,Saturday,15,88
+card,32.82,Americano with Milk,2024-04,Saturday,15,1
+cash,39.0,Cocoa,2024-04,Saturday,17,0
+card,37.72,Cappuccino,2024-04,Saturday,18,2
+card,37.72,Cappuccino,2024-04,Saturday,18,2
+card,37.72,Latte,2024-04,Saturday,19,1
+card,37.72,Latte,2024-04,Sunday,11,17
+card,27.92,Americano,2024-04,Sunday,14,4
+cash,39.0,Cappuccino,2024-04,Sunday,17,0
+card,27.92,Americano,2024-04,Monday,11,88
+card,32.82,Americano with Milk,2024-04,Monday,11,1
+cash,39.0,Latte,2024-04,Monday,18,0
+card,37.72,Latte,2024-04,Monday,19,63
+cash,39.0,Cappuccino,2024-04,Monday,20,0
+card,37.72,Cappuccino,2024-04,Tuesday,14,4
+card,32.82,Americano with Milk,2024-04,Tuesday,14,12
+card,37.72,Cappuccino,2024-04,Tuesday,14,63
+card,32.82,Americano with Milk,2024-04,Tuesday,19,2
+card,32.82,Americano with Milk,2024-04,Tuesday,19,2
+card,37.72,Latte,2024-04,Wednesday,10,17
+card,32.82,Americano with Milk,2024-04,Wednesday,10,1
+card,32.82,Americano with Milk,2024-04,Wednesday,11,1
+card,32.82,Americano with Milk,2024-04,Wednesday,11,2
+card,32.82,Americano with Milk,2024-04,Wednesday,12,12
+card,32.82,Americano with Milk,2024-04,Wednesday,16,63
+card,32.82,Americano with Milk,2024-04,Wednesday,19,11
+card,37.72,Cappuccino,2024-04,Wednesday,19,11
+card,27.92,Americano,2024-04,Thursday,10,1
+card,37.72,Latte,2024-04,Thursday,15,63
+card,27.92,Americano,2024-04,Thursday,17,88
+card,27.92,Americano,2024-04,Thursday,17,88
+card,37.72,Latte,2024-04,Friday,10,17
+card,37.72,Latte,2024-04,Friday,12,1
+card,37.72,Cappuccino,2024-04,Friday,13,1
+card,27.92,Americano,2024-04,Friday,15,88
+card,27.92,Americano,2024-04,Friday,15,88
+card,27.92,Cortado,2024-04,Friday,16,1
+card,27.92,Americano,2024-04,Friday,16,1
+card,37.72,Hot Chocolate,2024-04,Friday,19,63
+card,37.72,Cocoa,2024-04,Friday,19,63
+card,37.72,Cappuccino,2024-04,Saturday,15,63
+card,37.72,Latte,2024-04,Sunday,10,17
+card,37.72,Cappuccino,2024-04,Sunday,12,2
+card,27.92,Americano,2024-04,Sunday,18,88
+card,27.92,Americano,2024-04,Sunday,18,88
+card,37.72,Latte,2024-04,Sunday,18,7
+card,27.92,Cortado,2024-04,Monday,11,17
+card,27.92,Americano,2024-04,Monday,13,23
+card,27.92,Cortado,2024-04,Monday,13,23
+card,27.92,Cortado,2024-04,Monday,13,17
+card,32.82,Americano with Milk,2024-04,Monday,13,17
+card,37.72,Cappuccino,2024-04,Monday,18,2
+card,37.72,Cappuccino,2024-04,Monday,19,11
+card,37.72,Cappuccino,2024-04,Monday,19,11
+card,37.72,Latte,2024-04,Tuesday,10,8
+card,32.82,Americano with Milk,2024-04,Tuesday,10,8
+card,32.82,Americano with Milk,2024-04,Tuesday,10,8
+card,27.92,Americano,2024-04,Tuesday,13,8
+card,32.82,Americano with Milk,2024-04,Tuesday,13,8
+card,37.72,Cappuccino,2024-04,Tuesday,19,8
+card,32.82,Americano with Milk,2024-04,Tuesday,19,8
+card,37.72,Latte,2024-04,Tuesday,19,8
+card,27.92,Americano,2024-05,Thursday,10,5
+cash,39.0,Latte,2024-05,Thursday,11,0
+card,32.82,Americano with Milk,2024-05,Thursday,13,2
+card,37.72,Cappuccino,2024-05,Thursday,18,1
+card,32.82,Americano with Milk,2024-05,Thursday,18,12
+card,37.72,Latte,2024-05,Thursday,19,2
+card,37.72,Cappuccino,2024-05,Thursday,19,2
+cash,39.0,Latte,2024-05,Friday,10,0
+card,37.72,Latte,2024-05,Friday,14,1
+card,37.72,Latte,2024-05,Friday,17,1
+card,27.92,Americano,2024-05,Monday,10,5
+card,37.72,Cappuccino,2024-05,Monday,10,2
+card,32.82,Americano with Milk,2024-05,Monday,10,2
+card,27.92,Americano,2024-05,Monday,10,1
+card,27.92,Cortado,2024-05,Monday,10,17
+cash,29.0,Americano,2024-05,Monday,11,0
+card,27.92,Cortado,2024-05,Monday,13,5
+card,27.92,Americano,2024-05,Monday,13,5
+card,37.72,Cappuccino,2024-05,Monday,19,2
+card,37.72,Cappuccino,2024-05,Monday,19,2
+card,37.72,Cocoa,2024-05,Tuesday,10,5
+card,27.92,Cortado,2024-05,Tuesday,11,17
+card,27.92,Cortado,2024-05,Tuesday,13,5
+card,37.72,Cocoa,2024-05,Tuesday,16,5
+card,27.92,Americano,2024-05,Tuesday,16,1
+card,37.72,Cappuccino,2024-05,Tuesday,17,7
+card,37.72,Latte,2024-05,Tuesday,17,7
+cash,34.0,Americano with Milk,2024-05,Tuesday,18,0
+card,37.72,Cappuccino,2024-05,Tuesday,19,8
+card,37.72,Cappuccino,2024-05,Tuesday,19,8
+card,37.72,Latte,2024-05,Wednesday,10,17
+card,37.72,Cappuccino,2024-05,Thursday,12,1
+card,27.92,Americano,2024-05,Thursday,13,4
+card,37.72,Latte,2024-05,Thursday,13,4
+card,37.72,Latte,2024-05,Thursday,13,4
+card,37.72,Latte,2024-05,Thursday,13,4
+card,27.92,Americano,2024-05,Thursday,16,6
+card,27.92,Americano,2024-05,Thursday,16,6
+card,27.92,Americano,2024-05,Thursday,18,1
+card,32.82,Americano with Milk,2024-05,Thursday,18,5
+cash,39.0,Latte,2024-05,Friday,10,0
+card,37.72,Latte,2024-05,Friday,15,2
+card,37.72,Latte,2024-05,Friday,15,2
+cash,34.0,Americano with Milk,2024-05,Friday,16,0
+card,37.72,Latte,2024-05,Saturday,11,5
+cash,39.0,Latte,2024-05,Saturday,17,0
+card,32.82,Americano with Milk,2024-05,Saturday,17,63
+card,37.72,Cocoa,2024-05,Saturday,17,2
+card,37.72,Cappuccino,2024-05,Saturday,17,22
+card,32.82,Americano with Milk,2024-05,Saturday,17,88
+card,37.72,Cappuccino,2024-05,Saturday,18,2
+card,37.72,Latte,2024-05,Saturday,19,1
+card,37.72,Latte,2024-05,Sunday,10,17
+card,37.72,Latte,2024-05,Sunday,13,1
+card,27.92,Americano,2024-05,Sunday,13,1
+card,37.72,Latte,2024-05,Sunday,15,5
+card,32.82,Americano with Milk,2024-05,Sunday,15,1
+card,32.82,Americano with Milk,2024-05,Sunday,15,1
+card,32.82,Americano with Milk,2024-05,Sunday,16,88
+card,32.82,Americano with Milk,2024-05,Sunday,19,63
+card,32.82,Americano with Milk,2024-05,Monday,11,7
+cash,29.0,Americano,2024-05,Monday,15,0
+cash,29.0,Americano,2024-05,Monday,15,0
+card,27.92,Americano,2024-05,Tuesday,8,88
+card,27.92,Americano,2024-05,Tuesday,8,88
+card,27.92,Americano,2024-05,Tuesday,8,88
+card,37.72,Cappuccino,2024-05,Tuesday,10,88
+card,37.72,Latte,2024-05,Tuesday,11,2
+card,37.72,Cappuccino,2024-05,Tuesday,11,2
+card,37.72,Cappuccino,2024-05,Tuesday,14,4
+card,32.82,Americano with Milk,2024-05,Tuesday,14,63
+card,27.92,Americano,2024-05,Tuesday,15,22
+card,32.82,Americano with Milk,2024-05,Tuesday,16,2
+card,37.72,Cappuccino,2024-05,Tuesday,16,2
+card,37.72,Hot Chocolate,2024-05,Tuesday,22,1
+card,37.72,Latte,2024-05,Wednesday,8,1
+card,23.02,Espresso,2024-05,Wednesday,11,88
+card,27.92,Americano,2024-05,Wednesday,11,88
+card,27.92,Americano,2024-05,Wednesday,13,23
+card,27.92,Americano,2024-05,Wednesday,13,23
+card,27.92,Americano,2024-05,Wednesday,13,23
+card,32.82,Americano with Milk,2024-05,Wednesday,13,7
+cash,29.0,Americano,2024-05,Wednesday,14,0
+card,27.92,Cortado,2024-05,Wednesday,14,1
+card,27.92,Cortado,2024-05,Wednesday,14,88
+card,23.02,Espresso,2024-05,Wednesday,17,1
+card,37.72,Cappuccino,2024-05,Wednesday,20,1
+card,32.82,Americano with Milk,2024-05,Thursday,10,27
+card,32.82,Americano with Milk,2024-05,Thursday,10,2
+cash,39.0,Latte,2024-05,Thursday,11,0
+cash,39.0,Cappuccino,2024-05,Thursday,11,0
+card,32.82,Americano with Milk,2024-05,Thursday,12,1
+card,37.72,Hot Chocolate,2024-05,Thursday,15,1
+card,37.72,Latte,2024-05,Thursday,17,5
+card,37.72,Hot Chocolate,2024-05,Thursday,18,2
+card,37.72,Latte,2024-05,Thursday,18,2
+card,27.92,Americano,2024-05,Friday,9,5
+card,32.82,Americano with Milk,2024-05,Friday,11,7
+cash,34.0,Americano with Milk,2024-05,Friday,14,0
+card,32.82,Americano with Milk,2024-05,Friday,19,88
+card,37.72,Cappuccino,2024-05,Friday,19,63
+card,37.72,Cappuccino,2024-05,Friday,20,1
+card,27.92,Americano,2024-05,Friday,22,2
+card,37.72,Latte,2024-05,Friday,22,2
+card,37.72,Latte,2024-05,Friday,22,2
+card,37.72,Cappuccino,2024-05,Saturday,8,12
+card,37.72,Cappuccino,2024-05,Saturday,8,12
+card,32.82,Americano with Milk,2024-05,Saturday,11,1
+card,32.82,Americano with Milk,2024-05,Saturday,16,2
+card,32.82,Americano with Milk,2024-05,Saturday,16,27
+card,32.82,Americano with Milk,2024-05,Saturday,19,22
+card,37.72,Latte,2024-05,Saturday,20,63
+cash,39.0,Cappuccino,2024-05,Saturday,22,0
+card,27.92,Americano,2024-05,Sunday,7,2
+card,27.92,Americano,2024-05,Sunday,7,2
+card,37.72,Cappuccino,2024-05,Sunday,8,1
+cash,24.0,Espresso,2024-05,Sunday,9,0
+card,32.82,Americano with Milk,2024-05,Sunday,12,1
+card,27.92,Americano,2024-05,Sunday,14,88
+card,32.82,Americano with Milk,2024-05,Sunday,15,1
+card,32.82,Americano with Milk,2024-05,Sunday,18,3
+card,23.02,Espresso,2024-05,Sunday,18,3
+card,37.72,Hot Chocolate,2024-05,Sunday,18,3
+card,37.72,Cappuccino,2024-05,Sunday,19,1
+card,37.72,Cappuccino,2024-05,Sunday,21,1
+card,37.72,Cappuccino,2024-05,Sunday,21,1
+card,32.82,Americano with Milk,2024-05,Monday,10,1
+card,37.72,Latte,2024-05,Monday,10,3
+card,37.72,Latte,2024-05,Monday,10,17
+card,27.92,Americano,2024-05,Monday,11,5
+card,27.92,Americano,2024-05,Monday,11,5
+card,27.92,Americano,2024-05,Monday,13,23
+card,27.92,Americano,2024-05,Monday,13,23
+card,32.82,Americano with Milk,2024-05,Monday,14,7
+card,37.72,Cappuccino,2024-05,Monday,14,7
+cash,29.0,Americano,2024-05,Monday,14,0
+card,37.72,Latte,2024-05,Monday,17,3
+card,37.72,Latte,2024-05,Monday,17,1
+card,32.82,Americano with Milk,2024-05,Monday,20,5
+card,37.72,Cocoa,2024-05,Monday,20,5
+card,27.92,Cortado,2024-05,Monday,20,1
+card,32.82,Americano with Milk,2024-05,Monday,21,88
+card,32.82,Americano with Milk,2024-05,Monday,21,88
+card,37.72,Latte,2024-05,Tuesday,8,1
+cash,29.0,Americano,2024-05,Tuesday,9,0
+cash,34.0,Americano with Milk,2024-05,Tuesday,9,0
+cash,39.0,Cocoa,2024-05,Tuesday,9,0
+cash,39.0,Latte,2024-05,Tuesday,10,0
+card,37.72,Latte,2024-05,Tuesday,16,2
+card,23.02,Espresso,2024-05,Tuesday,18,88
+card,37.72,Cappuccino,2024-05,Tuesday,19,1
+card,37.72,Cappuccino,2024-05,Tuesday,20,1
+card,37.72,Cappuccino,2024-05,Wednesday,9,1
+card,32.82,Americano with Milk,2024-05,Wednesday,10,3
+card,27.92,Cortado,2024-05,Wednesday,11,17
+card,32.82,Americano with Milk,2024-05,Wednesday,11,27
+card,27.92,Americano,2024-05,Wednesday,12,88
+card,27.92,Americano,2024-05,Wednesday,12,88
+card,32.82,Americano with Milk,2024-05,Wednesday,14,63
+card,37.72,Cappuccino,2024-05,Wednesday,19,11
+card,37.72,Cappuccino,2024-05,Wednesday,19,11
+card,37.72,Hot Chocolate,2024-05,Wednesday,21,12
+card,37.72,Cappuccino,2024-05,Wednesday,21,12
+card,37.72,Cappuccino,2024-05,Thursday,10,1
+card,23.02,Espresso,2024-05,Thursday,12,1
+card,37.72,Cappuccino,2024-05,Thursday,15,12
+card,37.72,Cappuccino,2024-05,Thursday,15,5
+card,37.72,Cappuccino,2024-05,Thursday,16,12
+card,37.72,Latte,2024-05,Thursday,16,5
+card,37.72,Cappuccino,2024-05,Thursday,17,7
+card,37.72,Latte,2024-05,Thursday,17,7
+card,27.92,Cortado,2024-05,Thursday,19,1
+card,37.72,Cappuccino,2024-05,Thursday,19,11
+card,37.72,Cappuccino,2024-05,Thursday,19,3
+card,37.72,Cappuccino,2024-05,Thursday,19,9
+card,37.72,Cappuccino,2024-05,Thursday,20,2
+card,37.72,Latte,2024-05,Thursday,20,2
+card,32.82,Americano with Milk,2024-05,Thursday,22,1
+cash,39.0,Hot Chocolate,2024-05,Thursday,22,0
+card,27.92,Cortado,2024-05,Friday,11,17
+card,27.92,Americano,2024-05,Friday,11,88
+card,27.92,Americano,2024-05,Friday,11,88
+card,37.72,Hot Chocolate,2024-05,Friday,16,2
+card,27.92,Cortado,2024-05,Friday,18,2
+card,27.92,Cortado,2024-05,Friday,18,2
+card,32.82,Americano with Milk,2024-05,Friday,22,1
+cash,29.0,Americano,2024-05,Saturday,7,0
+card,37.72,Latte,2024-05,Saturday,12,1
+cash,29.0,Americano,2024-05,Saturday,12,0
+card,32.82,Americano with Milk,2024-05,Saturday,12,2
+card,32.82,Americano with Milk,2024-05,Saturday,12,2
+card,32.82,Americano with Milk,2024-05,Saturday,12,1
+card,32.82,Americano with Milk,2024-05,Saturday,16,22
+card,27.92,Americano,2024-05,Saturday,16,22
+card,37.72,Latte,2024-05,Sunday,10,17
+card,32.82,Americano with Milk,2024-05,Sunday,14,1
+card,27.92,Cortado,2024-05,Sunday,14,1
+card,32.82,Americano with Milk,2024-05,Sunday,14,1
+card,37.72,Cappuccino,2024-05,Sunday,17,1
+card,37.72,Hot Chocolate,2024-05,Sunday,18,3
+card,37.72,Hot Chocolate,2024-05,Sunday,18,3
+card,27.92,Americano,2024-05,Sunday,18,3
+card,37.72,Latte,2024-05,Sunday,18,1
+card,37.72,Hot Chocolate,2024-05,Sunday,20,4
+card,37.72,Cappuccino,2024-05,Sunday,21,4
+card,27.92,Cortado,2024-05,Sunday,21,2
+card,37.72,Cappuccino,2024-05,Sunday,21,1
+card,37.72,Latte,2024-05,Sunday,21,2
+card,37.72,Cappuccino,2024-05,Sunday,21,1
+card,27.92,Americano,2024-05,Monday,11,88
+card,32.82,Americano with Milk,2024-05,Monday,14,3
+card,37.72,Cocoa,2024-05,Monday,14,3
+card,27.92,Americano,2024-05,Monday,15,3
+card,27.92,Americano,2024-05,Monday,15,3
+card,37.72,Latte,2024-05,Monday,17,5
+card,27.92,Americano,2024-05,Monday,18,1
+card,37.72,Latte,2024-05,Monday,19,1
+card,37.72,Latte,2024-05,Monday,19,1
+card,32.82,Americano with Milk,2024-05,Monday,21,7
+card,37.72,Cappuccino,2024-05,Monday,21,9
+card,32.82,Americano with Milk,2024-05,Tuesday,8,88
+card,32.82,Americano with Milk,2024-05,Tuesday,9,27
+card,37.72,Cappuccino,2024-05,Tuesday,11,1
+card,37.72,Cappuccino,2024-05,Tuesday,13,1
+card,37.72,Cocoa,2024-05,Tuesday,14,5
+card,27.92,Cortado,2024-05,Tuesday,16,17
+cash,39.0,Cappuccino,2024-05,Tuesday,17,0
+card,27.92,Americano,2024-05,Tuesday,19,2
+card,37.72,Latte,2024-05,Tuesday,19,2
+card,32.82,Americano with Milk,2024-05,Tuesday,20,63
+card,27.92,Americano,2024-05,Tuesday,20,88
+card,37.72,Latte,2024-05,Wednesday,9,2
+cash,39.0,Latte,2024-05,Wednesday,10,0
+card,37.72,Hot Chocolate,2024-05,Wednesday,11,1
+card,27.92,Americano,2024-05,Wednesday,15,1
+card,37.72,Latte,2024-05,Wednesday,15,1
+card,37.72,Cappuccino,2024-05,Wednesday,15,1
+card,37.72,Latte,2024-05,Wednesday,16,1
+card,27.92,Cortado,2024-05,Wednesday,18,2
+card,37.72,Latte,2024-05,Wednesday,18,2
+card,37.72,Hot Chocolate,2024-05,Wednesday,20,1
+card,37.72,Cocoa,2024-05,Wednesday,20,1
+card,37.72,Cappuccino,2024-05,Thursday,8,2
+card,37.72,Latte,2024-05,Thursday,8,2
+card,32.82,Americano with Milk,2024-05,Thursday,8,1
+card,37.72,Latte,2024-05,Thursday,9,17
+card,32.82,Americano with Milk,2024-05,Thursday,14,27
+card,23.02,Espresso,2024-05,Thursday,15,1
+card,23.02,Espresso,2024-05,Thursday,15,88
+card,37.72,Cappuccino,2024-05,Thursday,19,9
+card,37.72,Latte,2024-05,Thursday,20,1
+card,37.72,Hot Chocolate,2024-05,Thursday,20,63
+card,32.82,Americano with Milk,2024-05,Thursday,20,63
+card,32.82,Americano with Milk,2024-05,Friday,7,1
+card,37.72,Latte,2024-05,Friday,9,1
+cash,39.0,Latte,2024-05,Friday,9,0
+card,37.72,Hot Chocolate,2024-05,Friday,10,1
+card,37.72,Cocoa,2024-05,Friday,10,1
+card,32.82,Americano with Milk,2024-05,Friday,14,1
+card,37.72,Latte,2024-05,Friday,18,4
+card,37.72,Latte,2024-05,Friday,18,4
+card,37.72,Cappuccino,2024-05,Friday,20,12
+card,32.82,Americano with Milk,2024-05,Friday,20,11
+card,37.72,Latte,2024-05,Friday,20,11
+card,37.72,Cappuccino,2024-05,Friday,22,9
+card,32.82,Americano with Milk,2024-05,Friday,22,9
+card,27.92,Cortado,2024-05,Friday,22,9
+card,27.92,Cortado,2024-06,Saturday,8,17
+card,37.72,Latte,2024-06,Saturday,9,2
+card,37.72,Latte,2024-06,Saturday,11,4
+card,32.82,Americano with Milk,2024-06,Saturday,14,27
+card,32.82,Americano with Milk,2024-06,Saturday,18,2
+card,32.82,Americano with Milk,2024-06,Saturday,18,2
+card,37.72,Cappuccino,2024-06,Saturday,20,8
+card,37.72,Cappuccino,2024-06,Saturday,20,8
+cash,39.0,Cocoa,2024-06,Saturday,20,0
+card,37.72,Cocoa,2024-06,Saturday,20,1
+card,32.82,Americano with Milk,2024-06,Saturday,21,63
+card,37.72,Latte,2024-06,Sunday,20,63
+card,32.82,Americano with Milk,2024-06,Sunday,20,22
+card,37.72,Cappuccino,2024-06,Sunday,20,22
+card,32.82,Americano with Milk,2024-06,Sunday,21,27
+card,37.72,Latte,2024-06,Sunday,21,1
+cash,34.0,Americano with Milk,2024-06,Sunday,22,0
+card,37.72,Latte,2024-06,Monday,10,17
+card,37.72,Latte,2024-06,Monday,10,3
+card,37.72,Cappuccino,2024-06,Monday,14,4
+card,32.82,Americano with Milk,2024-06,Monday,14,12
+card,37.72,Latte,2024-06,Monday,14,63
+cash,34.0,Americano with Milk,2024-06,Monday,21,0
+cash,34.0,Americano with Milk,2024-06,Monday,21,0
+card,27.92,Cortado,2024-06,Tuesday,9,17
+card,32.82,Americano with Milk,2024-06,Tuesday,10,27
+card,37.72,Latte,2024-06,Tuesday,12,2
+card,37.72,Hot Chocolate,2024-06,Tuesday,12,2
+card,37.72,Latte,2024-06,Tuesday,15,1
+card,27.92,Cortado,2024-06,Tuesday,17,7
+card,37.72,Cappuccino,2024-06,Tuesday,17,7
+card,37.72,Hot Chocolate,2024-06,Tuesday,20,2
+card,37.72,Cappuccino,2024-06,Tuesday,20,3
+card,27.92,Cortado,2024-06,Tuesday,21,1
+card,32.82,Americano with Milk,2024-06,Tuesday,21,1
+card,32.82,Americano with Milk,2024-06,Tuesday,21,3
+card,32.82,Americano with Milk,2024-06,Tuesday,21,3
+card,32.82,Americano with Milk,2024-06,Tuesday,21,3
+card,37.72,Cappuccino,2024-06,Wednesday,8,2
+card,37.72,Cappuccino,2024-06,Wednesday,8,2
+card,27.92,Americano,2024-06,Wednesday,9,1
+card,37.72,Latte,2024-06,Wednesday,10,17
+card,32.82,Americano with Milk,2024-06,Wednesday,10,27
+card,32.82,Americano with Milk,2024-06,Wednesday,19,1
+card,37.72,Latte,2024-06,Wednesday,19,1
+card,37.72,Cocoa,2024-06,Wednesday,20,4
+card,27.92,Cortado,2024-06,Wednesday,20,4
+card,32.82,Americano with Milk,2024-06,Thursday,8,27
+card,32.82,Americano with Milk,2024-06,Thursday,8,27
+card,37.72,Latte,2024-06,Thursday,10,17
+card,27.92,Americano,2024-06,Thursday,12,1
+card,32.82,Americano with Milk,2024-06,Thursday,15,3
+card,37.72,Cappuccino,2024-06,Thursday,15,1
+card,37.72,Latte,2024-06,Thursday,21,3
+card,37.72,Latte,2024-06,Thursday,21,3
+card,37.72,Cappuccino,2024-06,Thursday,21,9
+card,32.82,Americano with Milk,2024-06,Thursday,21,9
+card,37.72,Latte,2024-06,Thursday,21,3
+card,37.72,Cappuccino,2024-06,Friday,8,1
+card,23.02,Espresso,2024-06,Friday,10,1
+card,32.82,Americano with Milk,2024-06,Friday,13,7
+card,27.92,Cortado,2024-06,Friday,16,4
+card,27.92,Cortado,2024-06,Friday,16,4
+card,27.92,Cortado,2024-06,Saturday,9,1
+card,32.82,Americano with Milk,2024-06,Saturday,9,27
+card,37.72,Cappuccino,2024-06,Saturday,20,11
+card,37.72,Cappuccino,2024-06,Saturday,20,11
+card,37.72,Latte,2024-06,Sunday,8,27
+card,37.72,Latte,2024-06,Sunday,10,1
+card,37.72,Cappuccino,2024-06,Sunday,10,1
+card,27.92,Cortado,2024-06,Sunday,11,17
+card,23.02,Espresso,2024-06,Sunday,11,3
+card,37.72,Cappuccino,2024-06,Sunday,11,1
+card,32.82,Americano with Milk,2024-06,Sunday,12,9
+card,37.72,Latte,2024-06,Sunday,12,9
+card,37.72,Latte,2024-06,Sunday,12,9
+card,27.92,Cortado,2024-06,Sunday,15,1
+card,37.72,Cappuccino,2024-06,Sunday,16,1
+card,32.82,Americano with Milk,2024-06,Sunday,19,1
+card,27.92,Americano,2024-06,Sunday,21,1
+card,37.72,Cappuccino,2024-06,Monday,12,1
+card,37.72,Latte,2024-06,Monday,12,27
+card,37.72,Hot Chocolate,2024-06,Monday,19,2
+card,37.72,Hot Chocolate,2024-06,Monday,19,2
+card,37.72,Latte,2024-06,Monday,19,3
+card,37.72,Latte,2024-06,Monday,19,3
+card,32.82,Americano with Milk,2024-06,Tuesday,10,1
+card,37.72,Latte,2024-06,Tuesday,18,2
+card,37.72,Latte,2024-06,Tuesday,18,2
+card,37.72,Hot Chocolate,2024-06,Tuesday,21,1
+card,32.82,Americano with Milk,2024-06,Tuesday,21,2
+card,32.82,Americano with Milk,2024-06,Tuesday,21,2
+card,37.72,Hot Chocolate,2024-06,Wednesday,10,1
+card,37.72,Cappuccino,2024-06,Wednesday,11,1
+card,37.72,Latte,2024-06,Wednesday,17,3
+card,37.72,Latte,2024-06,Wednesday,17,1
+card,37.72,Hot Chocolate,2024-06,Wednesday,20,2
+card,32.82,Americano with Milk,2024-06,Wednesday,20,1
+card,27.92,Americano,2024-06,Thursday,8,1
+card,37.72,Latte,2024-06,Thursday,8,27
+card,32.82,Americano with Milk,2024-06,Thursday,9,1
+card,27.92,Cortado,2024-06,Thursday,9,17
+card,32.82,Americano with Milk,2024-06,Thursday,17,1
+card,37.72,Hot Chocolate,2024-06,Thursday,17,2
+card,37.72,Latte,2024-06,Thursday,19,1
+card,32.82,Americano with Milk,2024-06,Thursday,20,88
+card,23.02,Espresso,2024-06,Thursday,20,88
+card,23.02,Espresso,2024-06,Thursday,20,2
+card,32.82,Americano with Milk,2024-06,Thursday,20,63
+card,32.82,Americano with Milk,2024-06,Thursday,21,63
+card,27.92,Cortado,2024-06,Friday,7,17
+card,27.92,Americano,2024-06,Friday,10,1
+card,37.72,Latte,2024-06,Friday,12,27
+card,32.82,Americano with Milk,2024-06,Friday,18,1
+card,37.72,Cappuccino,2024-06,Saturday,11,3
+card,37.72,Latte,2024-06,Saturday,12,5
+card,32.82,Americano with Milk,2024-06,Saturday,12,5
+card,23.02,Espresso,2024-06,Saturday,12,5
+card,37.72,Cocoa,2024-06,Saturday,12,5
+card,32.82,Americano with Milk,2024-06,Saturday,12,5
+card,32.82,Americano with Milk,2024-06,Saturday,16,1
+card,27.92,Americano,2024-06,Saturday,18,1
+card,32.82,Americano with Milk,2024-06,Sunday,10,12
+card,37.72,Latte,2024-06,Sunday,10,4
+card,37.72,Hot Chocolate,2024-06,Sunday,11,4
+card,37.72,Hot Chocolate,2024-06,Sunday,11,4
+card,32.82,Americano with Milk,2024-06,Sunday,12,9
+card,23.02,Espresso,2024-06,Sunday,14,3
+card,32.82,Americano with Milk,2024-06,Sunday,15,4
+card,32.82,Americano with Milk,2024-06,Sunday,15,4
+card,37.72,Hot Chocolate,2024-06,Sunday,15,1
+card,37.72,Hot Chocolate,2024-06,Sunday,16,1
+card,32.82,Americano with Milk,2024-06,Sunday,17,12
+card,32.82,Americano with Milk,2024-06,Sunday,17,12
+card,27.92,Americano,2024-06,Monday,8,1
+card,27.92,Cortado,2024-06,Monday,10,2
+card,27.92,Cortado,2024-06,Monday,10,2
+card,37.72,Cappuccino,2024-06,Monday,10,2
+card,37.72,Cappuccino,2024-06,Monday,14,7
+card,37.72,Cappuccino,2024-06,Monday,16,88
+card,37.72,Cappuccino,2024-06,Monday,16,88
+card,27.92,Americano,2024-06,Monday,16,88
+card,27.92,Americano,2024-06,Monday,18,1
+card,32.82,Americano with Milk,2024-06,Monday,21,63
+card,27.92,Americano,2024-06,Tuesday,14,3
+card,37.72,Cappuccino,2024-06,Tuesday,14,3
+card,37.72,Cappuccino,2024-06,Tuesday,19,8
+card,37.72,Cappuccino,2024-06,Tuesday,19,8
+card,27.92,Cortado,2024-06,Tuesday,20,1
+card,32.82,Americano with Milk,2024-06,Tuesday,21,88
+card,32.82,Americano with Milk,2024-06,Tuesday,21,88
+card,37.72,Latte,2024-06,Wednesday,7,4
+card,27.92,Cortado,2024-06,Wednesday,8,17
+card,27.92,Americano,2024-06,Wednesday,10,1
+card,37.72,Latte,2024-06,Wednesday,11,2
+card,37.72,Cocoa,2024-06,Wednesday,11,2
+card,32.82,Americano with Milk,2024-06,Wednesday,14,7
+card,37.72,Cappuccino,2024-06,Wednesday,18,7
+card,37.72,Latte,2024-06,Wednesday,18,7
+card,32.82,Americano with Milk,2024-06,Wednesday,19,63
+card,37.72,Cappuccino,2024-06,Wednesday,21,7
+card,32.82,Americano with Milk,2024-06,Wednesday,21,7
+card,37.72,Latte,2024-06,Thursday,10,27
+card,37.72,Latte,2024-06,Thursday,18,2
+card,37.72,Latte,2024-06,Thursday,19,2
+card,37.72,Latte,2024-06,Thursday,21,3
+card,37.72,Latte,2024-06,Thursday,21,63
+card,32.82,Americano with Milk,2024-06,Thursday,21,63
+card,37.72,Latte,2024-06,Friday,9,4
+card,27.92,Americano,2024-06,Friday,10,1
+card,32.82,Americano with Milk,2024-06,Friday,13,88
+card,32.82,Americano with Milk,2024-06,Friday,13,88
+card,23.02,Espresso,2024-06,Friday,18,1
+card,37.72,Latte,2024-06,Friday,19,63
+card,37.72,Cappuccino,2024-06,Friday,19,8
+card,37.72,Cappuccino,2024-06,Friday,19,8
+card,37.72,Cappuccino,2024-06,Friday,19,12
+card,37.72,Cappuccino,2024-06,Friday,19,12
+card,27.92,Americano,2024-06,Friday,19,12
+card,32.82,Americano with Milk,2024-06,Friday,19,4
+card,27.92,Cortado,2024-06,Saturday,8,17
+card,32.82,Americano with Milk,2024-06,Saturday,9,4
+card,32.82,Americano with Milk,2024-06,Saturday,12,1
+card,37.72,Latte,2024-06,Saturday,15,63
+card,37.72,Cappuccino,2024-06,Saturday,22,1
+card,32.82,Americano with Milk,2024-06,Sunday,18,88
+card,32.82,Americano with Milk,2024-06,Sunday,18,88
+card,37.72,Cappuccino,2024-06,Sunday,21,1
+card,37.72,Latte,2024-06,Sunday,21,2
+card,37.72,Cappuccino,2024-06,Sunday,21,2
+card,32.82,Americano with Milk,2024-06,Monday,11,7
+card,37.72,Cappuccino,2024-06,Monday,11,12
+card,37.72,Cappuccino,2024-06,Monday,11,12
+card,37.72,Latte,2024-06,Monday,15,1
+card,37.72,Cappuccino,2024-06,Monday,16,5
+card,37.72,Cappuccino,2024-06,Monday,16,5
+card,37.72,Latte,2024-06,Tuesday,8,1
+card,32.82,Americano with Milk,2024-06,Tuesday,10,88
+card,32.82,Americano with Milk,2024-06,Tuesday,10,22
+card,37.72,Cappuccino,2024-06,Tuesday,11,5
+card,37.72,Latte,2024-06,Wednesday,9,1
+card,23.02,Espresso,2024-06,Wednesday,16,1
+card,27.92,Americano,2024-06,Wednesday,16,1
+card,37.72,Latte,2024-06,Wednesday,21,63
+card,37.72,Cappuccino,2024-06,Wednesday,21,63
+card,32.82,Americano with Milk,2024-06,Wednesday,21,9
+card,32.82,Americano with Milk,2024-06,Thursday,9,1
+card,27.92,Cortado,2024-06,Thursday,16,1
+card,32.82,Americano with Milk,2024-06,Thursday,21,4
+card,37.72,Cappuccino,2024-06,Thursday,21,2
+card,27.92,Cortado,2024-06,Friday,8,17
+card,23.02,Espresso,2024-06,Friday,17,3
+card,32.82,Americano with Milk,2024-06,Friday,21,1
+card,37.72,Latte,2024-06,Friday,21,1
+card,37.72,Cappuccino,2024-06,Friday,22,1
+card,32.82,Americano with Milk,2024-06,Saturday,9,27
+card,32.82,Americano with Milk,2024-06,Saturday,11,3
+card,32.82,Americano with Milk,2024-06,Saturday,11,3
+card,37.72,Cappuccino,2024-06,Saturday,12,2
+card,37.72,Cappuccino,2024-06,Saturday,12,2
+card,37.72,Cappuccino,2024-06,Saturday,17,2
+card,37.72,Hot Chocolate,2024-06,Saturday,17,2
+card,37.72,Latte,2024-06,Saturday,21,63
+card,37.72,Latte,2024-06,Sunday,10,1
+card,23.02,Espresso,2024-06,Sunday,13,1
+card,37.72,Hot Chocolate,2024-06,Sunday,16,63
+card,32.82,Americano with Milk,2024-06,Sunday,21,27
+card,23.02,Espresso,2024-07,Monday,18,88
+card,37.72,Cappuccino,2024-07,Monday,18,1
+card,37.72,Cappuccino,2024-07,Monday,18,3
+card,32.82,Americano with Milk,2024-07,Tuesday,10,4
+card,27.92,Americano,2024-07,Tuesday,10,4
+card,37.72,Latte,2024-07,Tuesday,12,7
+card,27.92,Americano,2024-07,Tuesday,14,1
+card,32.82,Americano with Milk,2024-07,Tuesday,16,1
+card,32.82,Americano with Milk,2024-07,Tuesday,22,2
+card,32.82,Americano with Milk,2024-07,Wednesday,13,88
+card,37.72,Cappuccino,2024-07,Wednesday,16,1
+card,37.72,Cappuccino,2024-07,Wednesday,16,1
+card,32.82,Americano with Milk,2024-07,Wednesday,16,4
+card,32.82,Americano with Milk,2024-07,Wednesday,16,1
+card,37.72,Latte,2024-07,Wednesday,16,4
+card,23.02,Espresso,2024-07,Wednesday,16,1
+card,37.72,Cappuccino,2024-07,Wednesday,17,1
+card,37.72,Latte,2024-07,Wednesday,19,63
+card,32.82,Americano with Milk,2024-07,Thursday,10,5
+card,27.92,Americano,2024-07,Thursday,10,88
+card,37.72,Cocoa,2024-07,Friday,12,2
+card,32.82,Americano with Milk,2024-07,Friday,13,22
+card,32.82,Americano with Milk,2024-07,Friday,13,2
+card,23.02,Espresso,2024-07,Friday,18,1
+card,27.92,Americano,2024-07,Friday,19,4
+card,23.02,Espresso,2024-07,Friday,22,1
+card,27.92,Americano,2024-07,Friday,22,2
+card,27.92,Americano,2024-07,Friday,22,2
+card,37.72,Cappuccino,2024-07,Friday,22,2
+card,32.82,Americano with Milk,2024-07,Friday,22,2
+card,37.72,Latte,2024-07,Saturday,10,1
+card,32.82,Latte,2024-07,Saturday,17,63
+card,32.82,Latte,2024-07,Saturday,17,63
+card,32.82,Latte,2024-07,Saturday,19,88
+card,27.92,Americano with Milk,2024-07,Saturday,19,88
+card,32.82,Cappuccino,2024-07,Sunday,9,4
+card,27.92,Americano with Milk,2024-07,Sunday,9,2
+card,27.92,Americano with Milk,2024-07,Sunday,9,2
+card,32.82,Cappuccino,2024-07,Sunday,9,2
+card,32.82,Cappuccino,2024-07,Sunday,9,2
+card,32.82,Hot Chocolate,2024-07,Sunday,14,2
+card,32.82,Cocoa,2024-07,Sunday,14,2
+card,32.82,Latte,2024-07,Sunday,17,1
+card,32.82,Cappuccino,2024-07,Sunday,19,1
+card,32.82,Hot Chocolate,2024-07,Sunday,20,1
+card,27.92,Americano with Milk,2024-07,Sunday,22,1
+card,32.82,Latte,2024-07,Monday,7,1
+card,23.02,Americano,2024-07,Monday,12,1
+card,23.02,Americano,2024-07,Monday,14,1
+card,27.92,Americano with Milk,2024-07,Monday,19,1
+card,32.82,Latte,2024-07,Monday,22,7
+card,27.92,Americano with Milk,2024-07,Tuesday,10,3
+card,27.92,Americano with Milk,2024-07,Tuesday,10,9
+card,27.92,Americano with Milk,2024-07,Tuesday,11,5
+card,32.82,Cappuccino,2024-07,Tuesday,11,5
+card,27.92,Americano with Milk,2024-07,Tuesday,16,1
+card,23.02,Americano,2024-07,Wednesday,11,3
+card,27.92,Americano with Milk,2024-07,Wednesday,12,1
+card,32.82,Latte,2024-07,Wednesday,22,4
+card,32.82,Hot Chocolate,2024-07,Thursday,11,3
+card,27.92,Americano with Milk,2024-07,Thursday,16,1
+card,32.82,Latte,2024-07,Thursday,22,1
+card,23.02,Americano,2024-07,Thursday,22,1
+card,23.02,Cortado,2024-07,Friday,8,1
+card,32.82,Hot Chocolate,2024-07,Friday,11,1
+card,32.82,Hot Chocolate,2024-07,Friday,22,2
+card,32.82,Hot Chocolate,2024-07,Friday,22,2
+card,32.82,Hot Chocolate,2024-07,Friday,22,2
+card,32.82,Latte,2024-07,Saturday,10,3
+card,32.82,Latte,2024-07,Saturday,11,3
+card,23.02,Americano,2024-07,Sunday,10,3
+card,27.92,Americano with Milk,2024-07,Sunday,10,3
+card,32.82,Cappuccino,2024-07,Sunday,10,3
+card,32.82,Latte,2024-07,Sunday,10,1
+card,23.02,Americano,2024-07,Sunday,11,6
+card,32.82,Latte,2024-07,Sunday,22,1
+card,32.82,Cappuccino,2024-07,Monday,7,1
+card,27.92,Americano with Milk,2024-07,Tuesday,12,1
+card,32.82,Hot Chocolate,2024-07,Tuesday,19,3
+card,27.92,Americano with Milk,2024-07,Wednesday,13,3
+card,27.92,Americano with Milk,2024-07,Thursday,11,1
+card,18.12,Espresso,2024-07,Thursday,11,1
+card,23.02,Americano,2024-07,Thursday,11,12
+card,23.02,Americano,2024-07,Thursday,11,12
+card,23.02,Cortado,2024-07,Thursday,11,12
+card,32.82,Latte,2024-07,Thursday,13,6
+card,32.82,Cappuccino,2024-07,Thursday,18,1
+card,32.82,Latte,2024-07,Thursday,19,63
+card,32.82,Hot Chocolate,2024-07,Thursday,21,2
+card,32.82,Latte,2024-07,Thursday,21,2
+card,32.82,Latte,2024-07,Thursday,21,7
+card,23.02,Americano,2024-07,Friday,11,6
+card,27.92,Americano with Milk,2024-07,Friday,11,5
+card,32.82,Latte,2024-07,Friday,12,2
+card,27.92,Americano with Milk,2024-07,Friday,12,2
+card,32.82,Latte,2024-07,Friday,14,7
+card,32.82,Cocoa,2024-07,Friday,14,7
+card,32.82,Latte,2024-07,Friday,16,7
+card,32.82,Latte,2024-07,Friday,16,7
+card,23.02,Americano,2024-07,Saturday,8,3
+card,32.82,Latte,2024-07,Saturday,8,3
+card,23.02,Americano,2024-07,Saturday,8,3
+card,32.82,Latte,2024-07,Saturday,9,3
+card,32.82,Latte,2024-07,Saturday,9,1
+card,23.02,Americano,2024-07,Saturday,10,1
+card,32.82,Latte,2024-07,Saturday,15,1
+card,32.82,Cocoa,2024-07,Sunday,10,3
+card,32.82,Cappuccino,2024-07,Sunday,11,1
+card,23.02,Cortado,2024-07,Sunday,13,1
+card,32.82,Latte,2024-07,Sunday,13,1
+card,23.02,Americano,2024-07,Monday,8,6
+card,23.02,Americano,2024-07,Monday,8,2
+card,27.92,Americano with Milk,2024-07,Monday,10,5
+card,32.82,Latte,2024-07,Monday,16,1
+card,32.82,Latte,2024-07,Tuesday,8,2
+card,23.02,Americano,2024-07,Tuesday,8,2
+card,27.92,Americano with Milk,2024-07,Tuesday,8,1
+card,32.82,Cocoa,2024-07,Tuesday,8,1
+card,32.82,Latte,2024-07,Tuesday,8,3
+card,23.02,Americano,2024-07,Tuesday,9,6
+card,27.92,Americano with Milk,2024-07,Tuesday,10,1
+card,27.92,Americano with Milk,2024-07,Tuesday,15,2
+card,32.82,Latte,2024-07,Tuesday,15,2
+card,32.82,Latte,2024-07,Tuesday,21,63
+card,23.02,Americano,2024-07,Tuesday,21,88
+card,23.02,Americano,2024-07,Tuesday,21,88
+card,27.92,Americano with Milk,2024-07,Wednesday,9,27
+card,27.92,Americano with Milk,2024-07,Wednesday,9,5
+card,18.12,Espresso,2024-07,Wednesday,9,1
+card,32.82,Cappuccino,2024-07,Wednesday,11,3
+card,32.82,Latte,2024-07,Wednesday,13,3
+card,18.12,Espresso,2024-07,Wednesday,14,88
+card,32.82,Latte,2024-07,Wednesday,15,63
+card,32.82,Cappuccino,2024-07,Wednesday,19,3
+card,32.82,Cappuccino,2024-07,Wednesday,19,3
+card,27.92,Americano with Milk,2024-07,Wednesday,21,22
+card,23.02,Americano,2024-07,Wednesday,21,22
+card,23.02,Americano,2024-07,Wednesday,21,88
+card,23.02,Americano,2024-07,Thursday,7,88
+card,32.82,Latte,2024-07,Thursday,8,3
+card,27.92,Americano with Milk,2024-07,Thursday,10,5
+card,23.02,Americano,2024-07,Thursday,11,6
+card,32.82,Cappuccino,2024-07,Thursday,15,1
+card,32.82,Cappuccino,2024-07,Thursday,19,3
+card,23.02,Cortado,2024-07,Thursday,21,2
+card,18.12,Espresso,2024-07,Thursday,21,2
+card,23.02,Cortado,2024-07,Thursday,22,4
+card,32.82,Cocoa,2024-07,Thursday,22,1
+card,32.82,Latte,2024-07,Friday,8,1
+card,27.92,Americano with Milk,2024-07,Friday,9,27
+card,18.12,Espresso,2024-07,Friday,9,12
+card,23.02,Cortado,2024-07,Friday,9,2
+card,23.02,Cortado,2024-07,Friday,9,2
+card,32.82,Latte,2024-07,Friday,9,2
+card,32.82,Latte,2024-07,Friday,10,2
+card,27.92,Americano with Milk,2024-07,Friday,11,5
+card,27.92,Americano with Milk,2024-07,Friday,12,3
+card,32.82,Cappuccino,2024-07,Friday,12,3
+card,32.82,Cappuccino,2024-07,Friday,12,3
+card,32.82,Latte,2024-07,Friday,13,1
+card,23.02,Americano,2024-07,Friday,17,1
+card,32.82,Cappuccino,2024-07,Friday,17,1
+card,32.82,Latte,2024-07,Friday,21,63
+card,27.92,Americano with Milk,2024-07,Friday,22,1
+card,32.82,Cappuccino,2024-07,Saturday,9,27
+card,27.92,Americano with Milk,2024-07,Saturday,11,1
+card,27.92,Americano with Milk,2024-07,Saturday,12,12
+card,18.12,Espresso,2024-07,Saturday,12,22
+card,27.92,Americano with Milk,2024-07,Saturday,12,12
+card,18.12,Espresso,2024-07,Saturday,14,3
+card,32.82,Latte,2024-07,Saturday,14,5
+card,32.82,Cappuccino,2024-07,Saturday,17,1
+card,32.82,Cappuccino,2024-07,Saturday,17,1
+card,27.92,Americano with Milk,2024-07,Saturday,17,2
+card,27.92,Americano with Milk,2024-07,Saturday,17,2
+card,32.82,Latte,2024-07,Saturday,20,63
+card,32.82,Cappuccino,2024-07,Saturday,22,1
+card,18.12,Espresso,2024-07,Sunday,11,88
+card,27.92,Americano with Milk,2024-07,Sunday,14,9
+card,32.82,Latte,2024-07,Sunday,14,9
+card,32.82,Latte,2024-07,Monday,8,1
+card,23.02,Americano,2024-07,Monday,9,88
+card,27.92,Americano with Milk,2024-07,Monday,9,27
+card,23.02,Americano,2024-07,Monday,9,23
+card,27.92,Americano with Milk,2024-07,Monday,9,1
+card,32.82,Cappuccino,2024-07,Monday,9,1
+card,32.82,Hot Chocolate,2024-07,Monday,10,2
+card,32.82,Hot Chocolate,2024-07,Monday,10,2
+card,32.82,Cappuccino,2024-07,Monday,19,1
+card,23.02,Americano,2024-07,Monday,19,4
+card,32.82,Cocoa,2024-07,Monday,21,4
+card,27.92,Americano with Milk,2024-07,Tuesday,7,2
+card,23.02,Cortado,2024-07,Tuesday,8,1
+card,32.82,Cappuccino,2024-07,Tuesday,8,1
+card,27.92,Americano with Milk,2024-07,Tuesday,9,27
+card,23.02,Cortado,2024-07,Tuesday,10,17
+card,27.92,Americano with Milk,2024-07,Tuesday,10,9
+card,32.82,Latte,2024-07,Tuesday,10,4
+card,23.02,Americano,2024-07,Tuesday,11,2
+card,18.12,Espresso,2024-07,Tuesday,11,2
+card,27.92,Americano with Milk,2024-07,Tuesday,11,1
+card,27.92,Americano with Milk,2024-07,Tuesday,11,1
+card,27.92,Americano with Milk,2024-07,Tuesday,11,1
+card,27.92,Americano with Milk,2024-07,Tuesday,11,1
+card,32.82,Latte,2024-07,Tuesday,12,1
+card,27.92,Americano with Milk,2024-07,Tuesday,15,1
+card,23.02,Cortado,2024-07,Tuesday,16,2
+card,27.92,Americano with Milk,2024-07,Tuesday,16,2
+card,18.12,Espresso,2024-07,Tuesday,20,1
+card,27.92,Americano with Milk,2024-07,Tuesday,20,27
+card,27.92,Americano with Milk,2024-07,Tuesday,20,27
+card,27.92,Americano with Milk,2024-07,Tuesday,20,2
+card,32.82,Latte,2024-07,Tuesday,21,1
+card,23.02,Americano,2024-07,Tuesday,22,2
+card,32.82,Cappuccino,2024-07,Tuesday,22,2
+card,27.92,Americano with Milk,2024-07,Wednesday,7,2
+card,27.92,Americano with Milk,2024-07,Wednesday,8,2
+card,27.92,Americano with Milk,2024-07,Wednesday,8,2
+card,23.02,Americano,2024-07,Wednesday,9,3
+card,23.02,Americano,2024-07,Wednesday,9,3
+card,27.92,Americano with Milk,2024-07,Wednesday,9,9
+card,32.82,Cocoa,2024-07,Wednesday,13,7
+card,32.82,Latte,2024-07,Wednesday,13,7
+card,27.92,Americano with Milk,2024-07,Wednesday,13,1
+card,23.02,Cortado,2024-07,Wednesday,17,1
+card,32.82,Latte,2024-07,Wednesday,18,1
+card,23.02,Cortado,2024-07,Wednesday,19,1
+card,32.82,Latte,2024-07,Wednesday,19,63
+card,32.82,Cocoa,2024-07,Wednesday,20,1
+card,23.02,Cortado,2024-07,Wednesday,20,3
+card,32.82,Latte,2024-07,Wednesday,20,3
+card,32.82,Cappuccino,2024-07,Wednesday,20,7
+card,23.02,Cortado,2024-07,Wednesday,20,3
+card,27.92,Americano with Milk,2024-07,Wednesday,20,22
+card,32.82,Latte,2024-07,Wednesday,21,1
+card,32.82,Latte,2024-07,Wednesday,21,1
+card,32.82,Latte,2024-07,Wednesday,21,1
