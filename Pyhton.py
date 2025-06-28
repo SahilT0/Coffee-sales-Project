@@ -146,6 +146,36 @@ y = data['money']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 print(X_train.shape, X_test.shape, y_train.shape, y_test.shape)
 
+# Create a result Dict.
+models = {
+    'Linear Regression': LinearRegression(),
+    'Decision Tree': DecisionTreeRegressor(random_state=42),
+    'Random Forest': RandomForestRegressor(random_state=42)
+}
+results = {}
+
+# Train and Evaluate all models
+for name, model in models.items():
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+
+    mse = mean_squared_error(y_test, y_pred)
+    r2 = r2_score(y_test, y_pred)
+
+    results[name] = {'model': model, 'mse': mse, 'r2': r2}
+    print(f" {name} → MSE: {mse:.2f}, R²: {r2:.4f}")
+
+# Selecting the Best Model
+best_model_name = max(results, key=lambda x: results[x]['r2'])
+best_model = results[best_model_name]['model']
+print(f"\n Best Model: {best_model_name}")
+# Random Forest model performs best with r^2 = .9853
+
+
+
+
+
+
 
 
 
