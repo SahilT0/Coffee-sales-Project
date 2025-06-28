@@ -172,9 +172,32 @@ print(f"\n Best Model: {best_model_name}")
 # Random Forest model performs best with r^2 = .9853
 
 
+# Export Predictions for Best Models
+# Predict using best model
+y_best_pred = best_model.predict(X_test)
+
+# Create a result DataFrame
+export_df = X_test.copy()
+export_df['actual_money'] = y_test
+export_df['predicted_money'] = y_best_pred
+
+# Save to CSV
+export_df.to_csv('sales_predictions_best_model.csv', index=False)
+print("Predictions exported for Power BI")
 
 
+# Visualize Actual vs Predicted Sales
+sns.scatterplot(x=y_test, y=y_best_pred)
+plt.xlabel('Actual Sales (₹)')
+plt.ylabel('Predicted Sales (₹)')
+plt.title(f'Actual vs Predicted Sales - {best_model_name}')
+plt.grid(True)
+plt.show()
 
+print(export_df.shape)
+print(export_df.head())
+
+# Python part done now see you at Power bi Dashboard
 
 
 
