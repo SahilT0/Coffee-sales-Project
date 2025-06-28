@@ -138,7 +138,13 @@ print(data.shape)
 print(data.head(3))
 
 
+# Features and Target
+X = data.drop(columns=['money'])
+y = data['money']
 
+# Train Test Split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+print(X_train.shape, X_test.shape, y_train.shape, y_test.shape)
 
 
 
