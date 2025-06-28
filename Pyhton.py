@@ -123,7 +123,19 @@ plt.ylabel('Total Sales')
 plt.show()
 
 
+# Data Preprocessing Part
 
+print(cleaned_data.head(10))
+
+# Adding new feature is_weekend
+weekend_days = ['Saturday', 'Sunday']
+cleaned_data['is_weekend'] = cleaned_data['day'].apply(lambda x: 1 if x in weekend_days else 0)
+print(cleaned_data[['day', 'is_weekend']].head(20))
+
+# Encoding Categorical column
+data = pd.get_dummies(cleaned_data, columns=['cash_type', 'coffee_name', 'month', 'day'], drop_first=False)
+print(data.shape)
+print(data.head(3))
 
 
 
