@@ -7,12 +7,10 @@ A complete Data Analytics and Machine Learning project to analyze, predict, and 
 ## 📊 Dashboards Preview
 
 ### 🔸 Coffee Sales Analytics Dashboard
-> ![Coffee Sales Dashboard](<img width="1334" height="737" alt="Screenshot 2025-08-03 125937" src="https://github.com/user-attachments/assets/1bce860c-e91a-4c2b-a75d-a2b672824961" />
-)
+> ![Coffee Sales Dashboard](https://github.com/user-attachments/assets/1bce860c-e91a-4c2b-a75d-a2b672824961)
 
 ### 🔸 Sales Prediction Dashboard (ML Model)
-> ![Sales Prediction Dashboard](<img width="1309" height="736" alt="Screenshot 2025-08-03 125837" src="https://github.com/user-attachments/assets/9d2910ba-f36c-45d7-aac1-a44adca37c87" />
-)
+> ![Sales Prediction Dashboard](https://github.com/user-attachments/assets/9d2910ba-f36c-45d7-aac1-a44adca37c87)
 
 ---
 
@@ -109,12 +107,11 @@ SahilT0/
 > Replace below with actual uploaded screenshots on GitHub
 
 ### 🔹 Analytics Dashboard  
-`![Coffee Sales Dashboard](<img width="1352" height="745" alt="Screenshot 2025-08-03 125708" src="https://github.com/user-attachments/assets/f55e103c-0340-4bf4-b670-7272c8e08e44" />
-)`
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/f55e103c-0340-4bf4-b670-7272c8e08e44)
 
 ### 🔹 ML Sales Prediction Dashboard  
-`![ML Prediction Dashboard](<img width="1307" height="730" alt="Screenshot 2025-08-03 125910" src="https://github.com/user-attachments/assets/2d968707-c5fa-4339-823d-8b31c2651e7f" />)
-`
+![ML Prediction Dashboard](https://github.com/user-attachments/assets/2d968707-c5fa-4339-823d-8b31c2651e7f)
+
 
 ---
 
