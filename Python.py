@@ -64,11 +64,11 @@ sales['customer_frequency'] = sales['card'].map(card_count)
 sales['customer_frequency'] = sales['customer_frequency'].fillna(0).astype(int)
 
 # Drop unneeded columns for ML modeling
-cleaned_data = sales.drop(columns=['date', 'datetime', 'card'])
+cleaned_data = sales.drop(columns=['datetime', 'card'])
 print(cleaned_data.head())
 
 # Save Cleaned data to new CSV
-cleaned_data.to_csv('C:/Users/SAHIL/Unified Mentor/Project (Data Analyst)/Coffee sales/cleaned_coffee_sales.csv', index=False)
+cleaned_data.to_csv('C:/Users/SAHIL/Unified Mentor/Project (Data Analyst)/Coffee sales/cleaned_coffee_sales_one.csv', index=False)
 
 # Data Cleaning Done
 
